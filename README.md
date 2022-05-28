@@ -10,7 +10,7 @@
 
 <a><h2>🏆 Github Profile Trophy</h2></a>
 <a>
-  <img width=1400 src="https://github-profile-trophy.vercel.app/?username=adam-TAU&column=8&theme=gruvbox&no-frame=true"/>
+  <img width=1400 src="https://github-profile-trophy.vercel.app/?username=Schwartzblat&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
 ## Number Of Visitors 
