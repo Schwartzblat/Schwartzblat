@@ -1,2 +1,17 @@
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://eoneqzjxvihmzij.m.pipedream.net/image.avif');]{x0000}$}
+### Hi I'm Alon 👋
+
+# Top Lanuages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schwartzblat&theme=radical&layout=compact)](https://github.com/Schwartzblat/github-readme-stats)
+
+## My Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Schwartzblat&show_icons=true&theme=gotham&&count_private=true&include_all_commits=true"/>
+
+<a><h2>🏆 Github Profile Trophy</h2></a>
+<a>
+  <img width=1400 src="https://github-profile-trophy.vercel.app/?username=Schwartzblat&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+
+## Number Of Visitors 
+![Visitor Count](https://profile-counter.glitch.me/Schwartzblat/count.svg)
