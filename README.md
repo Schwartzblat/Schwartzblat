@@ -1,13 +1,18 @@
-### Hi I'm Alon 👋
+### Hi I'm Alon Schwartzblat 👋
 
-# Top Lanuages
+I like to research cool stuff, mostly web & android but maybe other types of research will come later :)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schwartzblat&theme=radical&layout=compact)](https://github.com/Schwartzblat/github-readme-stats)
+## Leaderboards:
+
+Currently 30th in [webhacking.kr](https://webhacking.kr/rank.php) (web exploitation ctf site).
+
+Currently in 49th place [Israel VDP leaderboard](https://www.gov.il/he/pages/vdp_chart).
+
 
 ## My Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Schwartzblat&show_icons=true&theme=gotham&&count_private=true&include_all_commits=true"/>
-
+<!--
 <a><h2>🏆 Github Profile Trophy</h2></a>
 <a>
   <img width=1400 src="https://github-profile-trophy.vercel.app/?username=Schwartzblat&column=8&theme=gruvbox&no-frame=true"/>
@@ -15,3 +20,4 @@
 
 ## Number Of Visitors 
 ![Visitor Count](https://profile-counter.glitch.me/Schwartzblat/count.svg)
+-->
