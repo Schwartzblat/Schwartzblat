@@ -14,7 +14,7 @@ Currently in 49th place [Israel VDP leaderboard](https://www.gov.il/he/pages/vdp
 ## My Github Stats
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Schwartzblat&show_icons=true&theme=gotham&&count_private=true&include_all_commits=true"/> -->
-[![GitHub Card](https://githubcard.com/Schwartzblat.svg)](https://githubcard.com/Schwartzblat.svg?d=P6POD5n_)
+[![GitHub Card](https://githubcard.com/Schwartzblat.svg?d=P6POD5n_)]
 <!--
 <a><h2>🏆 Github Profile Trophy</h2></a>
 <a>
